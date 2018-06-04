@@ -1,7 +1,7 @@
 # Install Python 2.7 and choose the option to add to path (off by default)
 # Then install two modules
 #  C:\>pip install requests
-#  C:\>pip install BeautifulSoup
+#  C:\>pip install BeautifulSoup4
 # May need to use "python -m pip install requests"
 # Then run the program CUCM-Bulk-TFTP-Upload.py
 #  C:\>python tftp.py hostname/IP username password localdirectory
