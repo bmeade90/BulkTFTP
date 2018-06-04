@@ -1,4 +1,4 @@
-# # This program will traverse a local directory recursively and upload 
+# This program will traverse a local directory recursively and upload 
 # all files while maintaining the directory structure.
 #
 # Install Python 2.7 and choose the option to add to path (off by default)
